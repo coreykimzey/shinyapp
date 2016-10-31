@@ -4,7 +4,7 @@
 # You can find out more about building applications with Shiny here:
 #
 # http://shiny.rstudio.com
-#install.packages("shiny", "maps", "utils", "rgdal", "rgeos", "sp", "micromapST", "RColorBrewer")
+install.packages("shiny", "maps", "utils", "rgdal", "rgeos", "sp", "micromapST", "RColorBrewer")
 library(shiny)
 library(maps)
 library(utils)
