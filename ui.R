@@ -4,7 +4,7 @@
 #
 # http://shiny.rstudio.com
 #
-
+install.packages("shiny", "shinythemes")
 library(shiny)
 library(shinythemes)
 shinyUI(fluidPage(
